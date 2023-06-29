@@ -9,22 +9,22 @@
 
 1. Clone the repository:
     
-    $ git clone git@github.com:chaitaleeghare16/shopping_cart_app.git
+    > git clone git@github.com:chaitaleeghare16/shopping_cart_app.git
 
 2.  Navigate to project directory:
 
-    $ cd shopping_cart_app
+    > cd shopping_cart_app
 
 3. Install dependencies:
 
-    $ npm install
+    > npm install
 
 
 ## Usage
 
 1. Start developement server:
     
-   $ npm start
+   > npm start
 
 2. Open your browser and visit http://localhost:3000 to view the application.
 
