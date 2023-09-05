@@ -1,6 +1,5 @@
 import './App.css';
 import ShoppingCart from './components/ShoppingCart/ShoppingCart';
-import AddItemForm from './components/AddItemForm/AddItemForm';
 
 function App() {
 
